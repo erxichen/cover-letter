@@ -15,8 +15,8 @@ Going to Spain as an exchange student and coming to the United States to pursue 
 
 Thank you for taking your time to review the enclosed resume. I look forward to discussing with you more opportunities I can bring to {{{COMPANY}}}.
 
-Sincerely,
-Lijun Chen
-lijunchen.acct@gmail.com
-(508)491-8612
+Sincerely,  
+Lijun Chen  
+lijunchen.acct@gmail.com  
+(508)491-8612  
 linkedin.com/in/lijun-chen
