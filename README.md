@@ -4,7 +4,7 @@ I was excited to hear about your recent opening in {{{POSITION}}} at {{{COMPANY}
 
 Passed the VITA exams with top-ranked scores, I worked as an volunteer income tax assistant at the Internal Revenue Service (IRS). I conducted on average six interviews per week and examined Form W-2, 1099-R, etc. to helped clients with tax status and tax return reports. 
 
-Previously, as a staff accountant at GF Securities Co., Ltd., I maintained ledgers and compiled company financial statements. My responsibilities include invoice processing, document coordination, revamping systems for accuracy and efficiency, and resolving discrepancies and payment issues promptly. I initiated an income and expense flux analysis for the first working day of the month that provides for early identification and correction of posting errors, and contributed to accelerating the month-end close to the twentieth calendar day of every month. 
+Previously, as a staff accountant at GF Securities Co., Ltd., I maintained ledgers and compiled company financial statements. [to be filled]. I initiated an income and expense flux analysis for the first working day of the month that provides for early identification and correction of posting errors, and contributed to accelerating the month-end close to the twentieth calendar day of every month. 
 
 In an academic project, I analyzed annual reports of American Eagle and Urban Outfitters. By computing over ten crucial finance indicators, I accurately evaluated the profit and operation stability and predicted stock price trends in the following two years.
 
