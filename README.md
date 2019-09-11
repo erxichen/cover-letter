@@ -1,7 +1,6 @@
 Dear {{{TITLE}}}{{{HR}}},
 
-I was excited to hear about your recent opening in {{{POSITION}}} at {{{COMPANY}}}. 
-I believe I will be your valuable assets because my master degree in accounting,  and problem-solving skill for taxation issues and general bookkeeping, and financial accounting experiences strongly correlate with the requirements {{{COMPANY}}} is seeking. 
+I was excited to hear about your recent opening in {{{POSITION}}} at {{{COMPANY}}}. I believe I will be your valuable assets because my master degree in accounting,  and problem-solving skill for taxation issues and general bookkeeping, and financial accounting experiences strongly correlate with the requirements {{{COMPANY}}} is seeking. 
 
 Passed the VITA exams with top-ranked scores, I worked as an volunteer income tax assistant at the Internal Revenue Service (IRS). I conducted on average six interviews per week and examined Form W-2, 1099-R, etc. to helped clients with tax status and tax return reports. 
 
