@@ -10,8 +10,6 @@ In an academic project, I analyzed annual reports of American Eagle and Urban Ou
 
 I am proficient in accounting software, including but not limited to, MS Excel, Word, PowerPoint, and various other tax and accounting related software. Proactive, hardworking, and team-oriented, I am eager to apply my well-rounded skills and proven track record of professional achievements to this position at {{{COMPANY}}}.
 
-Going to Spain as an exchange student and coming to the United States to pursue a master's degree in accounting are major turning points in my life, forcing me to step out of my comfort zone.
-
 Thank you for taking your time to review the enclosed resume. I look forward to discussing with you more opportunities I can bring to {{{COMPANY}}}.
 
 Sincerely,  
