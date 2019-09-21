@@ -6,7 +6,7 @@ Passed the VITA exams with top-ranked scores, I worked as an volunteer income ta
 
 Previously, as a staff accountant at GF Securities Co., Ltd., I maintained ledgers and compiled company financial statements. My responsibilities include invoice processing, document coordination, revamping systems for accuracy and efficiency, and resolving discrepancies and payment issues promptly. I initiated an income and expense flux analysis for the first working day of the month that provides for early identification and correction of posting errors, and contributed to accelerating the month-end close to the twentieth calendar day of every month. 
 
-In an academic project, I analyzed annual reports of American Eagle and Urban Outfitters. By computing over 10 crucial finance indicators, our team deduced Urban Outfitter's annual EPS in the following two years at accuracies as high as 97.7% ($1.74 vs $1.78）and 95.7% ($1.78 vs $1.86) respectively, thus correctly forecasted it would outperform American Eagle.
+In an academic project, I analyzed annual reports of American Eagle and Urban Outfitters. By computing over 10 crucial financial indicators, our team deduced Urban Outfitter's annual EPS in the following two years at accuracies as high as 97.7% ($1.74 vs $1.78）and 95.7% ($1.78 vs $1.86) respectively, thus correctly forecasted it would outperform American Eagle.
 
 I am proficient in accounting software, including but not limited to, MS Excel, Word, PowerPoint, and various other tax and accounting related software. Proactive, hardworking, and team-oriented, I am eager to apply my well-rounded skills and proven track record of professional achievements to this position at {{{COMPANY}}}.
 
