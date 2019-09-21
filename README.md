@@ -6,7 +6,7 @@ Passed the VITA training and exams with top-ranked scores, I worked as an IRS vo
 
 Previously, as a staff accountant at GF Securities Co., Ltd., I maintained ledgers and compiled company financial statements. My responsibilities included processing payroll, reconciling bank statements, and resolving payment issues. I initiated an income and expense flux analysis for the first working month, which provided for early identification and correction of posting errors, and contributed to accelerating the month-end close to the twentieth calendar day of every month. 
 
-In an academic project, I analyzed annual reports of American Eagle and Urban Outfitters. By computing over 10 crucial finance indicators, I accurately evaluated the profit and operation stability and predicted stock price trends in the following two years.
+In an academic project, I analyzed annual reports of American Eagle and Urban Outfitters. By computing over 10 crucial financial indicators, our team deduced Urban Outfitter's annual EPS in the following two years at accuracies as high as 97.7% ($1.74 vs $1.78）and 95.7% ($1.78 vs $1.86) respectively, thus correctly forecasted it would outperform American Eagle.
 
 Studying in Spain as an exchange student and coming to the US to pursue a master's degree in accounting are great turning points in my life. The experience of growing up in the multicultural environments extends my relationships with people from different backgrounds and  
 improves the ability to collaborate and work on teams with excellent interpersonal skills.
