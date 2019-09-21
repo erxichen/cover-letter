@@ -1,4 +1,4 @@
-Dear {{{TITLE}}}{{{HR}}},
+Dear {{{HR_PREFIX}}} {{{HR}}},
 
 I was excited to hear about your recent opening in {{{POSITION}}} at {{{COMPANY}}}. I believe I will be your valuable assets because my master's degree in accounting and problem-solving skills for taxation and bookkeeping issues strongly correlate with the requirements {{{COMPANY}}} is seeking. 
 
